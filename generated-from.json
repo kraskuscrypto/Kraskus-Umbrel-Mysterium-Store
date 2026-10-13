@@ -2,13 +2,14 @@
   "generator": "1.0.0",
   "source_repo": "kraskuscrypto/Kraskus-Crypto-Store",
   "source_ref": "origin/main",
-  "source_commit": "60dba4233de71aba97b8a2fd31df740b631ef2a1",
+  "source_commit": "b6d714fbdc98a900bfb0392193a984d072209b15",
   "store_id": "mysterium",
   "apps": [
     {
       "id": "mysterium-node",
       "version": "2.6.13",
-      "gpu": false
+      "gpu": false,
+      "ui_unpublished": false
     }
   ]
 }
